@@ -1,5 +1,2 @@
 # hello-world
-Heyaa
-I like to work on C, C++, Java and Android.
-Also i am working on Python now..
-See ya
+I am .NET Developer with profeciency in C# programming laungauge and javascript.
